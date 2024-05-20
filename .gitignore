@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ms/
+.venv/
+.env
+.DS_Store
+*.log
+*.csv
+*.tsv
